@@ -28,11 +28,11 @@ update information, and handle reservations or requests.
 
 ## Technology Stack
 
-Programming Language: Python
-GUI Framework: Tkinter
-Database: MySQL
-Development Environment: Sublime Text
-Operating System: Mac OS
+1)Programming Language: Python
+2)GUI Framework: Tkinter
+3)Database: MySQL
+4)Development Environment: Sublime Text
+5) System: Mac OS
 
 
 ## Requirements to run the application:
