@@ -35,3 +35,22 @@ Development Environment: Sublime Text
 Operating System: Mac OS
 
 
+## Requirements to run the application:
+
+1.     MySQL running on a localhost
+
+2.     Python installed
+
+
+## Compilation:
+
+
+1.      Extract .zip file 
+
+2.      Run .py programs in any order with  Main.py at the end( starting point to the program )
+
+
+ 
+
+
+
